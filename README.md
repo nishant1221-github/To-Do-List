@@ -37,10 +37,12 @@ Contributing:
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please submit an issue or a pull request.
 
-License
+License:
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Acknowledgements
+Acknowledgements:
+
 This project is part of the CodeSoft Internship Project 2. Thanks to everyone who contributed and provided resources to help develop this application!
 
 Tags: Codesoft_taskno
